@@ -33,17 +33,16 @@ function App() {
           <div className="feature-card">
             <h3 className="feature-title">Integrations</h3>
             <p className="feature-desc">
-              Connect with all your health devices and apps. Apple Health,
-              Fitbit, Oura, and more - all in one unified platform.
+              Eventually connect with all your health devices and apps. Apple
+              Health, Fitbit, Oura, and more - all in one unified platform. For
+              now, just Apple health!
             </p>
           </div>
         </div>
 
         <button className="cta-button">Get Early Access</button>
 
-        <div className="footer">
-          &copy; 2023 HealthDog, Inc. All rights reserved.
-        </div>
+        <div className="footer">&copy; 2025 HealthDog - TY Jacky!</div>
       </header>
     </div>
   );
