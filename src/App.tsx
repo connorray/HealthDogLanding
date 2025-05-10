@@ -5,11 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img
-          src="/healthdog-color.svg"
-          className="App-logo"
-          alt="HealthDog logo"
-        />
+        <img src="/appstore.png" className="App-logo" alt="HealthDog logo" />
         <h1 className="App-title">HealthDog</h1>
         <h2 className="App-subtitle">
           DataDog for Health - Monitor Your Body Like Your Infrastructure
